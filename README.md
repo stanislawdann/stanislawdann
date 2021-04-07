@@ -1,11 +1,13 @@
 ### Hi there 👋, im Stanislaw.
 
-
-- 🔭 I’m currently working on blog app :)
+- 🔭 I’m currently working on blog app in Django 
 - 🌱 I’m currently learning JS/REACT
 - 💬 Ask me about  anything related to Python/Django
-- 📫 How to reach me: @stanislawdann
-- ⚡ Fun fact: Im kitesurfer 🏄
+- 📫 How to reach me: [@stanislawdann](https://twitter.com/stanislawdann)
+- 🏄 Fun fact: Im kitesurfer
+#
+<!--START_SECTION:waka-->
 
-https://github-readme-stats.vercel.app/api?username=stanislawdann&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
-
+<!--END_SECTION:waka-->
+#
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stanislawdann)](https://github.com/stanislawdann/github-readme-stats)
