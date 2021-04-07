@@ -5,7 +5,7 @@
 - 💬 Ask me about  anything related to Python/Django
 - 📫 How to reach me: [@stanislawdann](https://twitter.com/stanislawdann)
 - 🏄 Fun fact: Im kitesurfer
-#
+# This week activity ⌨️
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
