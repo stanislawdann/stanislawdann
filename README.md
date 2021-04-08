@@ -6,8 +6,6 @@
 - 📫 How to reach me: [@stanislawdann](https://twitter.com/stanislawdann)
 - 🏄 Fun fact: Im kitesurfer
 #
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stanislawdann)](https://github.com/stanislawdann/github-readme-stats)
-#
 #### My skills 
 ![map](https://img.shields.io/static/v1?logo=red&label=&message=Well-known&color=FB0504&logoColor=FB0504&style=flat-square&link=) ![map](https://img.shields.io/static/v1?logo=red&label=&message=Intermediate&color=E01291&logoColor=E01291&style=flat-square&link=) ![map](https://img.shields.io/static/v1?logo=red&label=&message=Learning&color=01E193&logoColor=E01291&style=flat-square&link=)
 
@@ -21,3 +19,8 @@
 &nbsp;&nbsp;&nbsp;<br><br>
 ![worksat](https://img.shields.io/static/v1?label=&message=databases:&color=555&style=flat-square)<br>
 ![postgreSQL](https://img.shields.io/static/v1?logo=postgresql&label=&message=postgreSQL&color=E01291&logoColor=AAA&style=flat-square) ![mysql](https://img.shields.io/static/v1?logo=mysql&label=&message=mySQL&color=E01291&logoColor=AAA&style=flat-square)
+
+#
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stanislawdann)](https://github.com/stanislawdann/github-readme-stats)
+
+
