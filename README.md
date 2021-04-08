@@ -13,7 +13,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stanislawdann)](https://github.com/stanislawdann/github-readme-stats)
 #
 #### My skills 
-![map](https://img.shields.io/static/v1?logo=red&label=&message=advanced&color=FB0504&logoColor=FB0504&style=flat-square&link=) ![map](https://img.shields.io/static/v1?logo=red&label=&message=intermediate&color=E01291&logoColor=E01291&style=flat-square&link=) ![map](https://img.shields.io/static/v1?logo=red&label=&message=learning&color=01E193&logoColor=E01291&style=flat-square&link=)
+![map](https://img.shields.io/static/v1?logo=red&label=&message=WellKnown&color=FB0504&logoColor=FB0504&style=flat-square&link=) ![map](https://img.shields.io/static/v1?logo=red&label=&message=intermediate&color=E01291&logoColor=E01291&style=flat-square&link=) ![map](https://img.shields.io/static/v1?logo=red&label=&message=learning&color=01E193&logoColor=E01291&style=flat-square&link=)
 
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square) <br>
