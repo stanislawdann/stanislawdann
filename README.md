@@ -1,7 +1,7 @@
 #### Hi there 👋, im Stanislaw.
 
 - 🔭 I’m currently working on blog app in Django 
-- 🌱 I’m currently learning JS/REACT
+- 🌱 I’m currently learning advanced aspects of Django
 - 💬 Ask me about  anything related to Python/Django
 - 📫 How to reach me: [@stanislawdann](https://twitter.com/stanislawdann)
 - 🏄 Fun fact: Im kitesurfer
